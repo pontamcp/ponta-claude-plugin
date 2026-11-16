@@ -1,0 +1,16 @@
+{
+  "name": "ponta",
+  "description": "The Ponta plugin for Claude.",
+  "owner": {
+    "name": "Roadmap Consulting Ltd, trading as Ponta",
+    "url": "https://ponta.ai"
+  },
+  "plugins": [
+    {
+      "name": "ponta",
+      "source": "./plugins/ponta",
+      "description": "Work on your own Windows PCs from Claude: files, commands, desktop apps, a browser and mail. Actions that could cause harm wait for your approval.",
+      "version": "1.0.0"
+    }
+  ]
+}
