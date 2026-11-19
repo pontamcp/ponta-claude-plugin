@@ -44,6 +44,7 @@ The first line of every result names the set and the PC it ran on.
 - Some sign-ins live only in the user's kept Chrome, such as a site linked to a phone. For those, call browser_profile with name main, and with name session to come back. In main, work only in tabs you opened.
 - Use mychrome_ ONLY when the user has asked for their own Chrome in this conversation, or has said yes after you asked. Its first call in a session waits for the user's approval. Open your own tab, and never touch or close one of theirs.
 - Close your tabs when you are done, and act at a human pace.
+- If a page shows a bot check, wait about 20 seconds first, because many clear by themselves. If a visible checkbox such as "Verify you are human" is still there, click it once, at a human pace, as a person would. Click only a checkbox you can see. Do not click again, refresh to try again, or use a solver service. If the check does not clear, stop and tell the user which page needs them, or ask for a sign-in or attention request.
 
 ## Mail
 
