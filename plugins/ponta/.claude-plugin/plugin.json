@@ -1,7 +1,7 @@
 {
   "name": "ponta",
   "displayName": "Ponta",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Work on your own Windows PCs from Claude: files, commands, desktop apps, a browser and mail. Actions that could cause harm wait for your approval.",
   "author": { "name": "Roadmap Consulting Ltd, trading as Ponta", "url": "https://ponta.ai" },
   "homepage": "https://ponta.ai",
